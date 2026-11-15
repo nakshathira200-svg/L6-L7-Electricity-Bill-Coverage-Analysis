@@ -1,2 +1,6 @@
 
 .DS_Store
+
+# Hypothesis and pytest cache
+.hypothesis/
+.pytest_cache/
